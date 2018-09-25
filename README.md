@@ -8,6 +8,8 @@ iOS源码分析
 
 [YYImage源码分析](https://www.jianshu.com/p/6a325a6046dc)
 
+[objc源码解析|引用计数管理](https://www.jianshu.com/p/b0e5f97a10cf)
+
 iOS笔记
 ---
 [iOS组件通信方案](https://www.jianshu.com/p/2af9c063fd85)
