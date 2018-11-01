@@ -15,3 +15,16 @@ iOS笔记
 [iOS组件通信方案](https://www.jianshu.com/p/2af9c063fd85)
 
 [WKWebView](https://www.jianshu.com/p/97faf098e673)
+
+[Action Extension](https://www.jianshu.com/p/7f8472a97aa6)
+
+[Runloop](https://www.jianshu.com/p/296f182c8faa)
+
+Go
+---
+[Web工作原理](https://www.jianshu.com/p/71d3991a3187)
+
+计算机
+---
+[计算机工作原理（一）编译和链接](https://www.jianshu.com/p/9de1f5008f55)
+[计算机工作原理（二）目标文件](https://www.jianshu.com/p/c472e238387b)
